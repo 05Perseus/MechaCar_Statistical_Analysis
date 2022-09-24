@@ -38,11 +38,27 @@
 
 ## *T-Tests on Suspension Coils*
 
-![Trips by time and day](https://github.com/05Perseus/bikesharing/blob/main/Resources/Trips_by_weekday.png)
+![Main Test](https://github.com/05Perseus/MechaCar_Statistical_Analysis/blob/main/Resources/main_tTest_img.png)
+![Lot1 Test](https://github.com/05Perseus/MechaCar_Statistical_Analysis/blob/main/Resources/Lot1_tTest_img.png)
+![Lot2 Test](https://github.com/05Perseus/MechaCar_Statistical_Analysis/blob/main/Resources/Lot2_tTest_img.png)
+![Lot3 Test](https://github.com/05Perseus/MechaCar_Statistical_Analysis/blob/main/Resources/Lot3_tTest_img.png)
 
-1. Ride Count by time and day Statistics
-    * Nearly all rides are during the week (M-F)
-    * The most popular times for rides are between 7-10am and 4-8pm
+
+1. Main t.Test
+    * For this test we used a random sampling of 50 of the population
+    * Assuming a significance level of 0.05 we can conclude from the test that the can Reject the Null Hypothesis
+
+2. Lot 1 t.Test
+    * For this test we used a random sampling of 50 of the population and used only Lot 1 subjects
+    * Assuming a significance level of 0.05 we can conclude from the test that the can Reject the Null Hypothesis
+
+3. Lot 2 t.Test
+    * For this test we used a random sampling of 50 of the population and used only Lot 2 subjects
+    * Assuming a significance level of 0.05 we can conclude from the test that the can Reject the Null Hypothesis
+
+4. Lot 3 t.Test
+    * For this test we used a random sampling of 50 of the population and used only Lot 3 subjects
+    * Assuming a significance level of 0.05 we can conclude from the test that the can Reject the Null Hypothesis
 
 ---
 
