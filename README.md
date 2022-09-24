@@ -1,8 +1,5 @@
 # MechaCar Statistical Analysis
 
-## *The Goal and Methodology*
-### In this analysis we wanted to determine the types of customers and rides the NYC Bike Share program has to see if the service can be replicated in Des Moines.
-
 ---
 ## *Linear Regression to Predict MPG*
 
