@@ -62,34 +62,28 @@
 
 ---
 
-## *Trip count by time, day, and gender*
+## *Study Design: MechaCar vs Competition*
 
-![Trips by time, day, and gender](https://github.com/05Perseus/bikesharing/blob/main/Resources/Trips_by_weekday_gender.png)
 
-1. Ride Count by time, day, and gender Statistics
-    * Nearly all rides are during the week (M-F)
-    * The most popular times for rides are between 7-10am and 4-8pm
-    * Men take the most trips during these times
+1. To determine how the MechaCar competes against the competition we will look at several variables that the consumer finds important
+    * Cost
+    * Horsepower
+    * Safety Rating
 
----
+2. Cost
+    * Negative Hypothesis: If the cost is below the average, then there will be no difference in customer interest
+    * Alternative Hypothesis: If the cost is below the average, then there will be a difference in customer interest
+    * To run this test we would need the average cost for this vehicle class and we would conduct a T-Test
 
-## *Trip count by day, gender, and customer type*
+3. Horsepower
+    * Negative Hypothesis: If the horsepower is below 200, then there will be no difference in customer interest
+    * Alternative Hypothesis: If the horsepower is below 200, then there will be a difference in customer interest
+    * To run this test we'd need the average horsepower of the competition and conduct a T-Test
 
-![Trips by day, gender, and customer type](https://github.com/05Perseus/bikesharing/blob/main/Resources/Trips_by_weekday_gender_type.png)
-
-1. Ride Count by Day, Gender, and Customer Type Statistics
-    * Nearly all rides are during the week (M-F)
-    * Men take the most trips during these times
-    * Almost all subscribers are men
-
----
-
-## *Trip count by time*
-
-![Trips by time](https://github.com/05Perseus/bikesharing/blob/main/Resources/Trips_by_time.png)
-
-1. Ride Count by Time Statistics
-    * Nearly all rides are during the peak rush hour times of day for commuting corporate employees
+4. Safety Rating
+    * Negative Hypothesis: If the safety rating is below 5 stars, then there will be no difference in customer interest
+    * Alternative Hypothesis: If the safety rating is below 5 stars, then there will be a difference in customer interest
+    * To run this test we'd need the safety rating of the competition and conduct a T-Test
 
 ---
 
