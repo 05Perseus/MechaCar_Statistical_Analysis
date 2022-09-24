@@ -84,26 +84,3 @@
     * Negative Hypothesis: If the safety rating is below 5 stars, then there will be no difference in customer interest
     * Alternative Hypothesis: If the safety rating is below 5 stars, then there will be a difference in customer interest
     * To run this test we'd need the safety rating of the competition and conduct a T-Test
-
----
-
-## *Customer Type*
-
-![Customer Type](https://github.com/05Perseus/bikesharing/blob/main/Resources/customer_type.png)
-
-1. Customer type Statistics
-    * Nearly all customers are annual subscribers rather than short-term users
-
----
-
----
-## *Conclusion*
-In conclusion, there are definitely some good things to learn from this dataset. Tying the visualizations together, you can easily see that men are the biggest target customer for this service. In particular, the men use this service at rush hour each day during the week, likely for their work commutes. They are also annual subscribers which is representative of the vast majority of trips. The trips being short also likely means that the men live near where they work so being in a dense urban area is very helpful.
-
-There are a couple more ways to get answers with this dataset:
-
-1. Maps for where trips start and end to determine the reason for bike use
-2. Counts of trips during winter months
-
-With these two extra visualiztions we could get a better sense of how our business will perform at different times in the year.
- 
